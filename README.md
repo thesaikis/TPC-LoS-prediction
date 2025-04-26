@@ -1,3 +1,15 @@
+# Disclaimer
+
+This is a fork of a repository and I am not the original author of this code. I have only made minor changes to reproduce the results on my own machine.
+
+
+
+
+
+
+
+
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/temporal-pointwise-convolutional-networks-for/predicting-patient-outcomes-on-eicu)](https://paperswithcode.com/sota/predicting-patient-outcomes-on-eicu?p=temporal-pointwise-convolutional-networks-for)
 
 Patient Outcome Prediction with TPC Networks
